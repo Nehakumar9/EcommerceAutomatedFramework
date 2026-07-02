@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53317125-eeaf-4e0d-b295-a08c3fa08dca" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Learning/HybridFrameWorkEcommerce" value="3Fiq5EKgBcmGLwqkeVLm1zYURcd" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="30" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HybridFrameWorkEcommerce" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HybridFrameWorkEcommerce" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HybridFrameWorkEcommerce" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HybridFrameWorkEcommerce" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/build.gradle" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000000009" />
+      <entry key="S30" value="1.0000115682381834" />
+      <entry key="S60" value="1.0055271007127895" />
+      <entry key="M2" value="1.176438032420478" />
+      <entry key="M5" value="3.53312515025533" />
+      <entry key="M10" value="9.750126267971996" />
+      <entry key="M15" value="15.372068789753017" />
+      <entry key="M30" value="27.484017162969078" />
+      <entry key="H1" value="54.53775999836392" />
+      <entry key="H2" value="127.86573410132736" />
+      <entry key="H4" value="239.69971752139918" />
+      <entry key="D1" value="445.4968714558853" />
+      <entry key="W1" value="499.3136936453275" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.1629364031836755E-100" />
+      <entry key="S5" value="1.6613898122564984E-40" />
+      <entry key="S10" value="2.3641490868311998E-20" />
+      <entry key="S30" value="7.936008964068342E-7" />
+      <entry key="S60" value="0.001985605134359938" />
+      <entry key="M2" value="0.11244966033773345" />
+      <entry key="M5" value="2.495576177740144" />
+      <entry key="M10" value="9.893368565450915" />
+      <entry key="M15" value="16.407805659330066" />
+      <entry key="M30" value="29.28187232782369" />
+      <entry key="H1" value="59.64996282818178" />
+      <entry key="H2" value="149.23482573807726" />
+      <entry key="H4" value="290.01831512623056" />
+      <entry key="D1" value="553.2051109331546" />
+      <entry key="W1" value="622.5103691151461" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.6070974421975234" />
+      <entry key="MS500" value="0.9050064628829054" />
+      <entry key="S2" value="0.9753554615276419" />
+      <entry key="S5" value="0.9900683286467772" />
+      <entry key="S10" value="0.9950217729511144" />
+      <entry key="S30" value="0.9983501257070735" />
+      <entry key="S60" value="1.00660928211217" />
+      <entry key="M2" value="1.2864513992121862" />
+      <entry key="M5" value="6.012203784766272" />
+      <entry key="M10" value="19.612313970932433" />
+      <entry key="M15" value="31.745755237735942" />
+      <entry key="M30" value="56.735984126243245" />
+      <entry key="H1" value="114.1599968430982" />
+      <entry key="H2" value="277.06907556906606" />
+      <entry key="H4" value="529.6884975138696" />
+      <entry key="D1" value="998.6927510228886" />
+      <entry key="W1" value="1121.8225816576946" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Fiq5EKgBcmGLwqkeVLm1zYURcd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.AccountRegisterTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AccountRegisterTest.verifyRegisterTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build HybridFrameWorkEcommerce.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.HybridFrameWorkEcommerce [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.HybridFrameWorkEcommerce [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.HybridFrameWorkEcommerce [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.HybridFrameWorkEcommerce [test].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;TestNG.AccountRegisterTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Learning/HybridFrameWorkEcommerce/src/test/resources/groupingTestng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Learning/HybridFrameWorkEcommerce/src/test/resources/groupingtestng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Learning/HybridFrameWorkEcommerce/src/test/resources/pararreltestng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Learning/HybridFrameWorkEcommerce/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Learning/HybridFrameWorkEcommerce/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Learning/HybridFrameWorkEcommerce/src/test/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Learning/HybridFrameWorkEcommerce/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Learning\HybridFrameWorkEcommerce\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Learning\HybridFrameWorkEcommerce\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Learning/HybridFrameWorkEcommerce/src/test/resources/groupingTestng.xml">
+    <configuration name="AccountRegisterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;TestCases.AccountRegisterTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AccountRegisterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HybridFrameWorkEcommerce.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.AccountRegisterTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Learning/HybridFrameWorkEcommerce/src/test/resources/groupingTestng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HybridFrameWorkEcommerce.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/groupingTestng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Learning/HybridFrameWorkEcommerce/src/test/resources/pararreltestng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HybridFrameWorkEcommerce.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/pararreltestng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Learning/HybridFrameWorkEcommerce/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HybridFrameWorkEcommerce.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="TestNG" nameIsGenerated="true">
+      <module name="HybridFrameWorkEcommerce.test" />
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../SeleniumProject/src/test/resources/testng.xml" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.AccountRegisterTest" />
+      <item itemvalue="TestNG.Unnamed" />
+      <item itemvalue="TestNG.AccountRegisterTest" />
+      <item itemvalue="TestNG.C:/Learning/HybridFrameWorkEcommerce/src/test/resources/groupingTestng.xml" />
+      <item itemvalue="TestNG.C:/Learning/HybridFrameWorkEcommerce/src/test/resources/pararreltestng.xml" />
+      <item itemvalue="TestNG.C:/Learning/HybridFrameWorkEcommerce/src/test/resources/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Learning/HybridFrameWorkEcommerce/src/test/resources/groupingTestng.xml" />
+        <item itemvalue="TestNG.C:/Learning/HybridFrameWorkEcommerce/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.C:/Learning/HybridFrameWorkEcommerce/src/test/resources/pararreltestng.xml" />
+        <item itemvalue="TestNG.AccountRegisterTest" />
+        <item itemvalue="Gradle.AccountRegisterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53317125-eeaf-4e0d-b295-a08c3fa08dca" name="Changes" comment="" />
+      <created>1782568053921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782568053921</updated>
+      <workItem from="1782568055030" duration="6070000" />
+      <workItem from="1782618455822" duration="2482000" />
+      <workItem from="1782620963193" duration="292000" />
+      <workItem from="1782621277722" duration="8066000" />
+      <workItem from="1782811422873" duration="1661000" />
+      <workItem from="1782814044038" duration="1806000" />
+      <workItem from="1782886368844" duration="1209000" />
+      <workItem from="1782968929252" duration="4000" />
+      <workItem from="1782969074603" duration="12132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

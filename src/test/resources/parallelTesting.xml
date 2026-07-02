@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="5" parallel="tests">
+    <test name="TestCasesEdge">
+        <parameter name="browser" value="edge"></parameter>
+        <classes>
+            <class name="TestCases.AccountRegisterTest">
+                <methods><include name="verifyRegisterTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="TestCasesChrome">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="TestCases.AccountRegisterTest">
+                <methods><include name="verifyRegisterTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

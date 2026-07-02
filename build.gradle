@@ -1,0 +1,44 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // TestNG framework dependency
+    testImplementation 'org.testng:testng:7.10.2'
+
+    // Explicitly provide the version for the JUnit platform engine adapter
+//    testRuntimeOnly 'org.junit.platform:junit-platform-engine:1.10.2'
+    implementation 'org.apache.commons:commons-lang3:3.14.0'
+
+    // Apache POI Data Driven dependencies
+    testImplementation 'org.apache.poi:poi:5.2.5'
+    testImplementation 'org.apache.poi:poi-ooxml:5.2.5'
+
+    //Extent Reports dependency
+    testImplementation 'com.aventstack:extentreports:5.1.1'
+
+    // Selenium dependency
+    testImplementation 'org.seleniumhq.selenium:selenium-java:4.45.0'
+    // Import the Log4j BOM
+    implementation platform('org.apache.logging.log4j:log4j-bom:2.24.1')
+
+    // Add the specific Log4j modules without version numbers
+    implementation 'org.apache.logging.log4j:log4j-api'
+    runtimeOnly 'org.apache.logging.log4j:log4j-core'
+}
+
+test {
+    // Tell Gradle to use TestNG instead of JUnit
+    useTestNG(){
+        suites 'src/test/resources/testng.xml'
+
+
+    }
+}

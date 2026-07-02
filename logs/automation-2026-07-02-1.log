@@ -1,0 +1,58 @@
+17:27:15.867 [main] INFO  TestCases.AccountRegisterTest - ===Starting Register test===
+17:27:16.266 [main] INFO  TestCases.AccountRegisterTest - ===Entering details for registration===
+17:27:18.253 [main] INFO  TestCases.AccountRegisterTest - ===Validation of registration===
+17:27:18.276 [main] INFO  TestCases.AccountRegisterTest - ===Registraion Completed===
+17:33:26.364 [TestNG-tests-1] INFO  TestCases.AccountRegisterTest - ===Starting Register test===
+17:33:26.809 [TestNG-tests-1] INFO  TestCases.AccountRegisterTest - ===Entering details for registration===
+17:33:26.977 [TestNG-tests-2] INFO  TestCases.AccountRegisterTest - ===Starting Register test===
+17:33:27.411 [TestNG-tests-2] INFO  TestCases.AccountRegisterTest - ===Entering details for registration===
+17:33:29.217 [TestNG-tests-1] INFO  TestCases.AccountRegisterTest - ===Validation of registration===
+17:33:29.243 [TestNG-tests-2] INFO  TestCases.AccountRegisterTest - ===Validation of registration===
+17:33:29.245 [TestNG-tests-1] INFO  TestCases.AccountRegisterTest - ===Registration Completed===
+17:33:29.293 [TestNG-tests-2] INFO  TestCases.AccountRegisterTest - ===Registration Completed===
+17:34:17.240 [TestNG-tests-2] INFO  TestCases.AccountRegisterTest - ===Starting Register test===
+17:34:17.569 [TestNG-tests-2] INFO  TestCases.AccountRegisterTest - ===Entering details for registration===
+17:34:19.017 [TestNG-tests-2] INFO  TestCases.AccountRegisterTest - ===Validation of registration===
+17:34:19.056 [TestNG-tests-2] INFO  TestCases.AccountRegisterTest - ===Registration Completed===
+18:26:29.989 [main] INFO  TestCases.LoginTest - ===Starting Login test===
+18:26:30.315 [main] INFO  TestCases.LoginTest - ===Enter Login details===
+18:26:31.910 [main] INFO  TestCases.LoginTest - ===Finished Login test===
+18:30:56.632 [main] INFO  TestCases.LoginDataDrivenTest - ===Sarting Login test===
+18:30:56.956 [main] INFO  TestCases.LoginDataDrivenTest - ===Enter Login details===
+18:30:58.754 [main] INFO  TestCases.LoginDataDrivenTest - ===Sarting Login test===
+18:30:59.107 [main] INFO  TestCases.LoginDataDrivenTest - ===Enter Login details===
+18:31:09.385 [main] INFO  TestCases.LoginDataDrivenTest - ===Sarting Login test===
+18:31:09.629 [main] INFO  TestCases.LoginDataDrivenTest - ===Enter Login details===
+18:53:12.423 [main] INFO  TestCases.AccountRegisterTest - ===Starting Register test===
+18:53:12.961 [main] INFO  TestCases.AccountRegisterTest - ===Entering details for registration===
+18:53:16.045 [main] INFO  TestCases.AccountRegisterTest - ===Validation of registration===
+18:53:16.111 [main] INFO  TestCases.AccountRegisterTest - ===Registration Completed===
+18:53:18.535 [main] INFO  TestCases.LoginTest - ===Starting Login test===
+18:53:18.923 [main] INFO  TestCases.LoginTest - ===Enter Login details===
+18:53:20.052 [main] INFO  TestCases.LoginTest - ===Finished Login test===
+18:55:14.519 [main] INFO  TestCases.LoginTest - ===Starting Login test===
+18:55:15.049 [main] INFO  TestCases.LoginTest - ===Enter Login details===
+18:55:18.295 [main] INFO  TestCases.LoginTest - ===Finished Login test===
+19:20:20.530 [main] INFO  TestCases.LoginDataDrivenTest - ===Sarting Login test===
+19:20:22.884 [main] INFO  TestCases.LoginDataDrivenTest - ===Enter Login details===
+19:20:25.115 [main] INFO  TestCases.LoginDataDrivenTest - ===Sarting Login test===
+19:20:25.495 [main] INFO  TestCases.LoginDataDrivenTest - ===Enter Login details===
+19:20:36.648 [main] INFO  TestCases.LoginDataDrivenTest - ===Sarting Login test===
+19:20:37.051 [main] INFO  TestCases.LoginDataDrivenTest - ===Enter Login details===
+19:22:34.433 [main] INFO  TestCases.LoginTest - ===Starting Login test===
+19:22:34.842 [main] INFO  TestCases.LoginTest - ===Enter Login details===
+19:22:36.616 [main] INFO  TestCases.LoginTest - ===Finished Login test===
+19:23:27.219 [main] INFO  TestCases.AccountRegisterTest - ===Starting Register test===
+19:23:27.840 [main] INFO  TestCases.AccountRegisterTest - ===Entering details for registration===
+19:23:29.795 [main] INFO  TestCases.AccountRegisterTest - ===Validation of registration===
+19:23:29.833 [main] INFO  TestCases.AccountRegisterTest - ===Registration Completed===
+19:23:32.311 [main] INFO  TestCases.LoginTest - ===Starting Login test===
+19:23:32.692 [main] INFO  TestCases.LoginTest - ===Enter Login details===
+19:23:33.837 [main] INFO  TestCases.LoginTest - ===Finished Login test===
+19:24:45.030 [main] INFO  TestCases.AccountRegisterTest - ===Starting Register test===
+19:24:45.611 [main] INFO  TestCases.AccountRegisterTest - ===Entering details for registration===
+19:24:47.279 [main] INFO  TestCases.AccountRegisterTest - ===Validation of registration===
+19:24:47.327 [main] INFO  TestCases.AccountRegisterTest - ===Registration Completed===
+19:24:50.218 [main] INFO  TestCases.LoginTest - ===Starting Login test===
+19:24:50.587 [main] INFO  TestCases.LoginTest - ===Enter Login details===
+19:27:44.674 [main] INFO  TestCases.AccountRegisterTest - ===Starting Register test===
